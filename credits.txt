@@ -1,0 +1,9 @@
+CREDITS:
+
+Programmed in Dart by Craig Horwood.
+
+Thanks to my father for the initial idea.
+
+Starry background image from 1-Background.com.
+
+Black hole graphic by David Lamm.
